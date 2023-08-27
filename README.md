@@ -81,7 +81,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-
+this is how you can set up this project locally 
 
 ### Prerequisites
 
@@ -99,14 +99,45 @@ This is how you can set up the projcet locally
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install NPM packages
+2. move the backend folder
+   ```sh
+   cd backend
+   ```
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Start the backend server
+   ```sh
+   npm install
    ```
+5. Move back to the parent directoy 
+   ```sh
+   cd ..
+   ```
+6. move the frontend folder
+   ```sh
+   cd frontend
+   ```
+7. Install NPM packages
+   ```sh
+   npm install
+   ```
+8. Start the frone end server
+   ```sh
+   npm install
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
