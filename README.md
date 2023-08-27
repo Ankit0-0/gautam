@@ -1,17 +1,13 @@
 
-
-
-
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="[images/logo.png](https://e0.pxfuel.com/wallpapers/543/763/desktop-wallpaper-lord-krishna-cloud-art-hindu-bhagwan-india-god.jpg)" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">asset nexus</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome way to manage your files!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
