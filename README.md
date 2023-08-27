@@ -1,11 +1,11 @@
 
 
 
-![Javatpoint]([https://media-exp1.licdn.com/dms/image/C4D0BAQEwg5FK93uumQ/company-logo_200_200/0/1519923012279?e=2147483647&v=beta&t=63CNoS8OTR4lHjPhHSO7eFFqwLGwYunWfyDBV3tdc0c](https://e0.pxfuel.com/wallpapers/543/763/desktop-wallpaper-lord-krishna-cloud-art-hindu-bhagwan-india-god.jpg))  
+
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://e0.pxfuel.com/wallpapers/543/763/desktop-wallpaper-lord-krishna-cloud-art-hindu-bhagwan-india-god.jpg)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
