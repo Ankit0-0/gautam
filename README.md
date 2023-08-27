@@ -57,7 +57,7 @@
 
 -->
 <a href="#">
-    <img src="/planet-04.png" alt="Logo" width="300" height="200">
+    <img src="/planet-04.png" alt="Logo" width="4212" height="1689">
 </a>
 
 
