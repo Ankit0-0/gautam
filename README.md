@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://unsplash.com/photos/0rCJ-y3wx6g)
+[![Product Name Screen Shot][product-screenshot]]("/planet-04.png")
 
 
 The Digital Asset Manager project is a comprehensive solution developed using React and Node.js, designed to efficiently organize, store, and manage a diverse range of digital assets. It serves as a centralized platform for users to seamlessly upload, categorize, and access their multimedia files. 
