@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="[images/logo.png](https://e0.pxfuel.com/wallpapers/543/763/desktop-wallpaper-lord-krishna-cloud-art-hindu-bhagwan-india-god.jpg)" alt="Logo" width="80" height="80">
+    <img src="favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">asset nexus</h3>
