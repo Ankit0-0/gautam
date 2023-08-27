@@ -148,8 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - gautamsajwan8126.com
-
+Your Name - [@LinkedIn](https://www.linkedin.com/in/gautam-sajwan-b44179217/) - gautamsajwan8126@gmail.com
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
