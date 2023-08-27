@@ -164,7 +164,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://www.linkedin.com/in/gautam-sajwan-b44179217/) - gautamsajwan8126@gmail.com
+Gautam Sajwan - [@LinkedIn](https://www.linkedin.com/in/gautam-sajwan-b44179217/) - gautamsajwan8126@gmail.com
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
