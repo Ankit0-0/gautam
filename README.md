@@ -132,16 +132,6 @@ This is how you can set up the projcet locally
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -165,6 +155,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Contact
 
 Gautam Sajwan - [@LinkedIn](https://www.linkedin.com/in/gautam-sajwan-b44179217/) - gautamsajwan8126@gmail.com
+<br/>
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
