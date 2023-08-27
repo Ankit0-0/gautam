@@ -109,7 +109,7 @@ This is how you can set up the projcet locally
    ```
 4. Start the backend server
    ```sh
-   npm install
+   npm run dev
    ```
 5. Move back to the parent directoy 
    ```sh
@@ -125,7 +125,7 @@ This is how you can set up the projcet locally
    ```
 8. Start the frone end server
    ```sh
-   npm install
+   npm run dev
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
